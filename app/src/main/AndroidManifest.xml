@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="tk.ty3uk.miuiextendedreboot"
-    android:versionCode="2"
-    android:versionName="1.1">
+    package="tk.ty3uk.miuiextendedreboot">
 
     <application
         android:allowBackup="true"

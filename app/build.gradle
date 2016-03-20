@@ -8,6 +8,8 @@ android {
         applicationId "tk.ty3uk.miuiextendedreboot"
         minSdkVersion 19
         targetSdkVersion 23
+        versionCode 3
+        versionName "1.2"
     }
     buildTypes {
         release {
